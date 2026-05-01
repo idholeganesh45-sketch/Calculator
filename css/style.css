@@ -24,4 +24,8 @@ body {
     width: 45px;
     height: 45px;
     margin: 3px;
+    border-radius: 10px;
+}
+#button_C{
+    background-color: rgb(212, 103, 224);
 }
